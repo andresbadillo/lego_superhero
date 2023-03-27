@@ -210,7 +210,7 @@ body {
     justify-content: center;
     position: absolute;
     z-index: 3;
-    animation: loader 0.2s linear forwards;
+    animation: loader 2s linear forwards;
 }
 @keyframes loader {
     0% {
